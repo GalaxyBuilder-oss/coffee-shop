@@ -50,7 +50,7 @@
     },
     {
         "id" : "8",
-        "product_name": "V60",
+        "product_name": "Arabica",
         "description": "Filtered coffee with water spreading all flavor notes",
         "product_image": "https://images.unsplash.com/photo-1541498355002-4ee81a1872ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80",
         "price": "2.70"
@@ -68,5 +68,12 @@
         "description": "Filtered pressure coffee",
         "product_image": "https://images.unsplash.com/photo-1496198183329-402041b2487b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1032&q=80",
         "price": "2.50"
+    },
+    {
+        "id" : "11",
+        "product_name": "Black Coffee",
+        "description": "Coffee with nothing added – no cream, no milk, no sweetener",
+        "product_image": "https://images.unsplash.com/photo-1634913564795-7825a3266590?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGJsYWNrJTIwY29mZmVlfGVufDB8fDB8fHww&w=1000&q=80",
+        "price": "2.00"
     }
 ]
