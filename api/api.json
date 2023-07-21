@@ -75,5 +75,12 @@
         "description": "Coffee with nothing added – no cream, no milk, no sweetener",
         "product_image": "https://images.unsplash.com/photo-1634913564795-7825a3266590?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGJsYWNrJTIwY29mZmVlfGVufDB8fDB8fHww&w=1000&q=80",
         "price": "2.00"
+    },
+    {
+        "id": "12",
+        "product_name": "Syphon",
+        "description": "It produces a delicate tea-like cup of coffee",
+        "product_image": "https://images.unsplash.com/photo-1550048192-f5416a1f132a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+        "price": "1.80"
     }
 ]
